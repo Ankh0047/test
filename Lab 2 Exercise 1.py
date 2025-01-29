@@ -8,5 +8,5 @@ madlib1 = "Энэ хичээлийн код нь {}".format(course_id) + ", хи
 madlib2 = "Энэ хичээлийн код нь {}".format(course_id).upper() + ", хичээлийн нэр нь {}".format(course_name).title() + \
         " бөгөөд уг хичээл нь {}".format(credit) + " кредитийн хичээл юм."
 
-print(madlib1)
+# print(madlib1)
 print(madlib2)
